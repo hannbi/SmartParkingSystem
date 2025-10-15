@@ -1,1 +1,1 @@
-# hanbi_DB
+# smart parking system DB
